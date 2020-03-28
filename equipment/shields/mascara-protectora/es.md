@@ -9,7 +9,7 @@ files:
   - ./files/
 ---
 
-1. Help needed translating this document to english [./sos/template-in-english.md]
+1. [Help needed translating this document to english](./sos/template-in-english)
 
 # Nombre descriptivo del artefacto
 
