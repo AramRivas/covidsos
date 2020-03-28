@@ -1,9 +1,8 @@
 ---
 name: Nombre descriptivo del artefacto
 author: juan@example.com
-status: DRAFT
-reviewer: 
-lang: es                # Consultar la lista en https://covidsos.mx/lang
+status: DRAFT                # DRAFT | COMPLETE | REVIEWED | CERTIFIED
+lang: es                     # Consultar la lista en https://covidsos.mx/lang
 picture: ./images/
 files:
   - ./files/
@@ -17,11 +16,15 @@ Descripción
 
 ## Materiales
 
-- 
+- Material 1
+
+- Material 2
 
 ## Herramientas
 
-Lista de herramientas
+- Herramienta 1
+
+- Herramienta 2
 
 ## Procedimiento
 
@@ -35,15 +38,15 @@ Aquí la descripción del primer paso
 
 - Instrucciones
 
-#### Paso 2
+#### Segundo paso
 
 Aquí la descripción del segundo paso
 
 - Instrucciones
 
-
-
 ### Ensamblaje
+
+    Aquí va una nota sobre algo
 
 #### Primer paso
 
@@ -54,3 +57,7 @@ Aquí la descripción del segundo paso
 2. Paso 2 Aquí la descripción del segundo paso
 
     - Instrucciones
+
+## Tips
+
+> Tip general
