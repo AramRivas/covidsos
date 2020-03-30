@@ -2,8 +2,6 @@
 
 ![COVIDSOS](./covidsos.png)
 
-[https://covidsos.mx/](https://covidsos.mx/)
-
 ![GitHub contributors](https://img.shields.io/github/contributors/covidsosmx/covidsos)
 
 ## Español, para los que nos entienden
@@ -12,13 +10,8 @@ COVIDSOS es un repositorio open source construído para organizar y coordinar pe
 
 En este repositorio abierto encontrarás inicialmente la inteligencia colectiva de -esperamos- millones con instrucciones, herramientas y materiales necesarias para construir equipo médico que es y será muy requerido alrededor del mundo.
 
-**FAVOR DE NOTAR QUE POR EL MOMENTO NINGUNO DE LOS DISEÑOS HAN SIDO VALIDADOS POR AUTORIDAD MÉDICA ALGUNA.**
-
-**Actualmente nos encontramos clasificando la información y actualizaremos esta nota cuando haya una cantidad suficiente cantidad de información colectada.**
-
-## ¿Cómo ayudar?
-
-- [COMO AYUDAR](/help/es/index.md)
+**Asegúrate de visitar el sitio web de [COVIDSOS](https://covidsos.mx/es/) y
+ consulta las instrucciones sobre como utilizar este repositorio.** 
 
 ---
 
@@ -28,9 +21,5 @@ COVIDSOS is an open repository built to organize and coordinate individuals who 
 
 In this open repository you will find initially the collective inteligence of -hopefully- millions with intructions, tools and materials needed to build medical equipment much needed around the world.
 
-**PLEASE NOTE THAT AT THE MOMENT NONE OF THE DESIGNS HAVE BEEN VALIDATED BY ANY MEDICAL AUTHORITY.**
-
-**We are currently organizing and classifying the information and we will update this notice when there's a good amount of information collected.**
-
-Use them at the moment to prepare in case you can help and register in https://covidsos.mx/ to quickly collaborate.
-
+**Make sure to visit [COVIDSOS](https://covidsos.mx/en/) website and check out
+ the instructions on how to use this repository.** 
