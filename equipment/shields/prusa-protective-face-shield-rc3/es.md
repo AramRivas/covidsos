@@ -1,16 +1,13 @@
 ---
-name: Nombre descriptivo del artefacto
-author: juan@example.com
-status: DRAFT                # DRAFT | COMPLETE | REVIEWED | CERTIFIED
 lang: es                     # Consultar la lista en https://covidsos.mx/lang
-picture: ./images/
-files:
-  - ./files/
+status: DRAFT                # DRAFT | COMPLETE | REVIEWED | CERTIFIED
+picture: ./img/rc3-stacked.jpg
+reference: https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3/collections 
 ---
 
-# Nombre descriptivo del artefacto
+# Careta Protectura Prusa RC3
 
-Descripción
+Un prototipo desarrollado por el equipo de Prusa Printers. En tres días recorrieron docenas de prototipos y dos verificaciones con el Ministro de Salud de la República Checa.
 
 ## Materiales
 
