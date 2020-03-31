@@ -26,7 +26,7 @@ Duración del procedimiento: 15 - 20 minutos.
 
 ## Herramientas
 
-- Máquina de coser ( o aguja para coser)
+- Máquina de coser (o aguja para coser)
 - Tijeras
 - Alfileres (opcional)
 
