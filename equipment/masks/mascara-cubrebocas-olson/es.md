@@ -3,7 +3,7 @@ name: Máscara cubrebocas tipo Olson
 author: UnityPoint Health – Cedar Rapids
 status: DRAFT                # DRAFT | COMPLETE | REVIEWED | CERTIFIED
 lang: es                     # Consultar la lista en https://covidsos.mx/lang
-picture: ./img/olson_mask
+picture: ./img/olson_mask.png
 files:
   - ./files/
 ---
