@@ -1,8 +1,10 @@
 ---
-lang: es                     # Consultar la lista en https://covidsos.mx/lang
-status: DRAFT                # DRAFT | COMPLETE | REVIEWED | CERTIFIED
+specs: face-shields_es
+lang: es
+status: DRAFT
 picture: ./img/rc3-stacked.jpg
-reference: https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3/collections 
+reference: https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3/collections
+difficulty: LOW 
 ---
 
 # Careta Protectura Prusa RC3

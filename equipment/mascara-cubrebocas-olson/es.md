@@ -1,18 +1,19 @@
 ---
+specs: face-masks_es
+lang: es
 name: Máscara cubrebocas tipo Olson
 author: UnityPoint Health – Cedar Rapids
-status: DRAFT                # DRAFT | COMPLETE | REVIEWED | CERTIFIED
-lang: es                     # Consultar la lista en https://covidsos.mx/lang
+status: DRAFT
 picture: ./img/olson_mask.png
-files:
-  - ./files/
+time: 20m
+difficulty: LOW
 ---
 
 # Máscara cubrebocas tipo Olson
 
 Esta máscara es para utilizarse como alternativa (no como reemplazo) a los cubrebocas quirúrgicos, en caso de que estos sean escasos. Lavable y reutilizable. Este tutorial utiliza diferentes telas para mostrar de mejor forma la construcción de la máscara.
 
-Duración del procedimiento: 15 - 20 minutos.
+Duración del procedimiento: 15-20 minutos.
 
 ![Mascara Olson](./img/olson_mask.png)
 
@@ -33,6 +34,7 @@ Duración del procedimiento: 15 - 20 minutos.
 ## Procedimineto
 
 ### Componente
+
 Para la creación de los componentes, se debe recortar la tela acorde a los modelos de las piezas (los archivos de los modelos los puedes encontrar al final del artículo).
 
 ![Componentes](./img/components.png)
@@ -84,21 +86,27 @@ Esta pieza es la que va a cubrir a la máscara por el lado de afuera.
 - Colocar la pieza mouth-cheek sobre la pieza face. Puedes usar alfileres para sujetar ambas piezas juntas.
 
 ![Colocar mouth-cheek](./img/places_mouth_cheek.png)
+
 ![Uso de alfiler](./img/pin_overview.png)
 
 - Coser el perímetro de las 2 piezas.
 
 ![Coser perimetro](./img/sewing_outside.png)
+
 ![Vista trasera](./img/back_view.png)
+
 ![Vista delantera](./img/front_view.png)
 
 - Usando los espacios creados entre las pieza mouth y cheek, voltear la máscara de adentro hacia afuera.
+
 ![Voltear mascara](./img/flip_mask.png)
 
 Vista interior de la máscara
+
 ![Vista interior de la mascara](./img/internal_view.png)
 
 Vista extrior de la máscara
+
 ![Vista exterior de la mascara](./img/external_view.png)
 
 - Agregar las ligas para el cabello al final de cada lado de la máscara, hacer un doblez sobre ellas y coser (tomar en consideración el tamaño de la máscara al hacer los dobleces).

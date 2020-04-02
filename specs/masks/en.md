@@ -1,5 +1,8 @@
 ---
-id: mask_en
-references:
-  - https://en.wikipedia.org/wiki/Snake_case
+id: face-masks_en
+lang: en
+category: face-masks
+summary: Description pending.
 ---
+
+# Face masks

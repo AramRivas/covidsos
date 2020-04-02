@@ -1,8 +1,13 @@
 ---
 id: ventilators_en
-name: Ventilators
-published: true
+lang: en
+category: ventilators
+summary: Description pending.
 ---
+
+# Ventilators
+
+Source: [MIT E-Vent | MIT Emergency Ventilator](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
 
 From the Clinical Guidance this document summarizes the minimum set of requirements for ventilation:
 
@@ -33,4 +38,3 @@ From the Clinical Guidance this document summarizes the minimum set of requireme
 
 <sup>*</sup> Range determined based on several COVID-19 patients’ ventilator settings reported from Boston area ICUs
 
-Fuente: [MIT E-Vent | MIT Emergency Ventilator](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
