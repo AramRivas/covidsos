@@ -1,8 +1,7 @@
 ---
 specs: face-masks_es
+name: mascara-cubrebocas-olson
 lang: es
-name: Máscara cubrebocas tipo Olson
-author: UnityPoint Health – Cedar Rapids
 status: DRAFT
 picture: ./img/olson_mask.png
 time: 20m

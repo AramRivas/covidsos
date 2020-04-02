@@ -1,5 +1,6 @@
 ---
 specs: face-shields_es
+name: prusa-protective-face-shield-rc3
 lang: es
 status: DRAFT
 picture: ./img/rc3-stacked.jpg
