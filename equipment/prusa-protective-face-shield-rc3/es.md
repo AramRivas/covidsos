@@ -5,7 +5,8 @@ lang: es
 status: DRAFT
 picture: ./img/rc3-stacked.jpg
 reference: https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3/collections
-difficulty: LOW 
+time: 20m
+difficulty: MEDIUM 
 ---
 
 # Careta Protectura Prusa RC3
