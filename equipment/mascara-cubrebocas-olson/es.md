@@ -10,11 +10,9 @@ difficulty: LOW
 
 # Máscara cubrebocas tipo Olson
 
-Esta máscara es para utilizarse como alternativa (no como reemplazo) a los cubrebocas quirúrgicos, en caso de que estos sean escasos. Lavable y reutilizable. Este tutorial utiliza diferentes telas para mostrar de mejor forma la construcción de la máscara.
+Esta máscara es para utilizarse como alternativa (no como reemplazo) a los cubrebocas quirúrgicos, en caso de que estos sean escasos. Es lavable y reutilizable. Este tutorial utiliza diferentes telas para mostrar de mejor forma la construcción de la máscara.
 
-Duración del procedimiento: 15-20 minutos.
-
-![Mascara Olson](./img/olson_mask.png)
+**Utiliza un filtro de 0.3 micras que podría ser difícil de conseguir**
 
 ## Materiales
 
@@ -22,7 +20,7 @@ Duración del procedimiento: 15-20 minutos.
 - Hilo
 - Ligas para el cabello
 - Cinta adhesiva doble cara
-- Filtro de 0.3 micras
+- **Filtro de 0.3 micras**
 
 ## Herramientas
 
