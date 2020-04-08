@@ -16,9 +16,8 @@ description: Caja de intubación de acrílico de bajo costo.
 
 ## Materiales
 
-- Hojas de acrílico, u
-- Hojas de policarbonato transparente  
-- Pegamento acrílico
+- Hojas de acrílico
+- Pegamento para acrílico
 
 </section>
 
