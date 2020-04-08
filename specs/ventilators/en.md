@@ -22,7 +22,8 @@ From the Clinical Guidance this document summarizes the minimum set of requireme
 3. Airway pressure must be monitored:
    
     1. Maximum pressure **should be limited to 40 cm H<sub>2</sub>O** at any time; Plateau pressure **should be limited to max 30 cm H<sub>2</sub>O**
-    2. The use of a **passive mechanical blow-off valve** fixed at 40 cm H<sub>2</sub>O is strongly recommended
+    2. The use of a **passive mechanical b
+    low-off valve** fixed at 40 cm H<sub>2</sub>O is strongly recommended
     3. Clinician require readings of plateau pressure and PEEP (refer to clinical documentation tab)
     4. PEEP of **5-15 cm** H<sub>2</sub>O required; many patients need 10-15
      cmH<sub>2</sub>O
