@@ -6,12 +6,14 @@ status: DRAFT
 picture: ./img/olson_mask.png
 time: 20m
 difficulty: LOW
+description: Máscara de tela apta para uso de personas sin infección o síntomas.
 ---
 
 # Máscara cubrebocas tipo Olson
 
 Esta máscara es para utilizarse como alternativa (no como reemplazo) a los cubrebocas quirúrgicos, en caso de que estos sean escasos. Es lavable y reutilizable. Este tutorial utiliza diferentes telas para mostrar de mejor forma la construcción de la máscara.
 
+Este cubrebocas es recomendado para uso del público en general dado que el Coronavirus puede transmitirse entre personas asintomáticas por lo que se recomienda su construcción evitando así consumir recursos valiosos para los profesionales de la salud como las máscaras N95.
 **Utiliza un filtro de 0.3 micras que podría ser difícil de conseguir**
 
 ## Materiales
@@ -29,6 +31,8 @@ Esta máscara es para utilizarse como alternativa (no como reemplazo) a los cubr
 - Alfileres (opcional)
 
 ## Procedimineto
+
+Se incluye este video que 
 
 ### Componente
 

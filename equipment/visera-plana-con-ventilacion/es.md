@@ -6,7 +6,7 @@ status: DRAFT
 picture: ./img/viseras.jpg
 time: 40-60m
 difficulty: Media 
-summary: Es el modelo de visera 
+description: Es el modelo de visera 
 ---
 
 # Visera plana con ventilación

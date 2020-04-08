@@ -7,7 +7,7 @@ picture: ./img/aerosol-box.jpg
 time: 2 horas
 difficulty: Baja
 reference: https://sites.google.com/view/aerosolbox/design
-summary: Esta caja puede hacerse con materiales baratos como acrílico u hojas de policarbonato transparente. Después de una intubación la caja puede ser reutilizada por otro paciente.
+description: Caja de intubación de acrílico de bajo costo.
 ---
 
 # Caja para intubación de acrílico
