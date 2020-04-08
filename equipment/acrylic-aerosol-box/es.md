@@ -10,7 +10,7 @@ reference: https://sites.google.com/view/aerosolbox/design
 description: Caja de intubación de acrílico de bajo costo.
 ---
 
-# Caja para intubación de acrílico
+# Caja de acrílico para intubación
 
 <section class="materials">
 
