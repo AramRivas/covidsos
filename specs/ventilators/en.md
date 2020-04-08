@@ -1,5 +1,6 @@
 ---
 id: ventilators_en
+position: 3
 lang: en
 category: ventilators
 summary: Description pending.

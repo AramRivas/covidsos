@@ -4,8 +4,8 @@ name: acrylic-aerosol-box
 lang: es
 status: DRAFT
 picture: ./img/aerosol-box.jpg
-time: ?
-difficulty: LOW
+time: 2 horas
+difficulty: Baja
 ---
 
 # Caja para intubación de acrílico

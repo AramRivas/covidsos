@@ -1,5 +1,6 @@
 ---
 id: face-shields_en
+position: 2
 lang: en
 category: face-shields
 summary: Description pending.
